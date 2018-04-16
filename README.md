@@ -7,4 +7,4 @@ Just a tool that makes sharing and finding music more easily.
 
 [iOS](https://itunes.apple.com/app/songlink/id1341416046?mt=8) | [Android](https://github.com/Runjuu/SongLinkSupport/releases)
 
-[Feedback](https://github.com/Runjuu/SongLinkSupport/issues)
+[Feedback](https://github.com/Runjuu/SongLinkSupport/issues/new)

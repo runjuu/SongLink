@@ -10,4 +10,6 @@ Just a tool that makes sharing and finding music more easily.
 [<img alt="App Store" src="https://i.imgur.com/Ft8bmXd.png" height="40" />](https://itunes.apple.com/app/songlink/id1341416046?mt=8)
 [<img alt="Google Play" src="https://i.imgur.com/H4Q45xH.png" height="40" />](https://play.google.com/store/apps/details?id=com.runjuu.SongLink)
 
+[Download APK(Android)](https://github.com/Runjuu/SongLink/releases/latest)
+
 [Feedback](https://github.com/Runjuu/SongLinkSupport/issues/new)

@@ -22,12 +22,12 @@ Just a tool that makes sharing and finding music more easily.
 
 # SongLink 高级食用方法
 
-## 快速定位歌曲
+### 快速定位歌曲
 在最开始的几个版本中，SongLink 其实是有歌曲图片显示的，不过因为图片涉及到一些版权问题，只好去掉了。为了弥补因为移除了图片而不容易从搜索结果中辨识歌曲的问题，现在可以对任意搜索结果右滑，SongLink 会自动高亮所有相关的结果，同时在平台的标题上标出有多少个相似结果。如果是使用下面提到的快捷搜索功能的话，SongLink 会尝试自动高亮相似歌曲
 
 <img height="500" src="https://i.imgur.com/TZsVbsV.gif" />
 
-## 快捷搜索
+### 快捷搜索
 
 在 iOS 平台，大部分可以使用 Share Extensions 的地方，SongLink 都提供了支持。
 
